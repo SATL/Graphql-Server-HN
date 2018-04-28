@@ -1,0 +1,7 @@
+#service:  hackernews-node
+#stage:  dev
+datamodel:  datamodel.graphql
+secret: mysecret123
+
+#cluster: eslem-alzate-d232e8/prisma-eu1
+endpoint: https://eu1.prisma.sh/eslem-alzate-d232e8/hackernews-node/dev
